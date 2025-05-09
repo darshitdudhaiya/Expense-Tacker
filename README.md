@@ -19,10 +19,8 @@ A modern, GUI-based Expense Tracker application built with Python, Tkinter, and 
 
 ## Screenshots
 
-![login](https://github.com/darshitdudhaiya/Expense-Tacker/blob/main/Screenshots/Screenshot%202025-05-10%20001348.png)
-![Add Expense](https://github.com/darshitdudhaiya/Expense-Tacker/blob/main/Screenshots/Screenshot%202025-05-10%20001434.png)
-![View Expenses](https://github.com/darshitdudhaiya/Expense-Tacker/blob/main/Screenshots/Screenshot%202025-05-10%20001542.png)
-![Statistics](https://github.com/darshitdudhaiya/Expense-Tacker/blob/main/Screenshots/Screenshot%202025-05-10%20001542.png)
+![login](https://github.com/darshitdudhaiya/Expense-Tacker/blob/main/Screenshots/Screenshot%202025-05-10%20001348.png) ![Add Expense](https://github.com/darshitdudhaiya/Expense-Tacker/blob/main/Screenshots/Screenshot%202025-05-10%20001434.png) 
+![View Expenses](https://github.com/darshitdudhaiya/Expense-Tacker/blob/main/Screenshots/Screenshot%202025-05-10%20001542.png) ![Statistics](https://github.com/darshitdudhaiya/Expense-Tacker/blob/main/Screenshots/Screenshot%202025-05-10%20001542.png)
 
 ---
 
